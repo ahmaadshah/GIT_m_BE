@@ -1,0 +1,7 @@
+git branch feature1git
+ branch -vgit
+ checkout feature1
+git checkout -b test
+git 
+branch -d test
+
